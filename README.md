@@ -1,6 +1,10 @@
 # Wazuh-manager-Windows-agent
 # Monitoring Tool Overview
 Monitoring Logs and Detecting threats, Vulnerabilities Using Wazuh Monitoring Tool(Wazuh-manager-Windows-agent)
+# Table of Contents
+[prerequisites](https://github.com/Krishnaswamy90/Wazuh-manager-Windows-agent/edit/main/README.md#prerequisites),.
+[key features](https://github.com/Krishnaswamy90/Wazuh-manager-Windows-agent/edit/main/README.md#key-features),
+[Endpoints](https://github.com/Krishnaswamy90/Wazuh-manager-Windows-agent/edit/main/README.md#endpoints)
 # Prerequisites
 1. VirtualBox installed.
 2.Ubuntu / Debian VM
