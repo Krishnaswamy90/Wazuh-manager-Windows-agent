@@ -11,19 +11,22 @@ Monitoring Logs and Detecting threats, Vulnerabilities Using Wazuh Monitoring To
 
 # Key features
 
-# Wazuh Manager Setup on VirtualBox
+# Wazuh Manager and Wazuh Agent Setup
 - **Installed and configured Wazuh Manager on a Linux VM for log analysis and alert management.**
-# Windows Log Monitoring & Event Collection
+- **Windows Log Monitoring & Event Collection**
 - **Collected real-time security logs from Windows.**
-# Dashboard Visualization
 - **Used the Wazuh Dashboard to view alerts, monitor active agents, and analyze event data.**
-# Endpoint Security Monitoring
 - **Tracks system changes, file integrity, user login behavior, PowerShell execution, and other endpoint activity.**
-# Hands-On SIEM Experience
 - **Demonstrates a practical workflow similar to SOC operations, including event analysis and threat detection.**
 
 # Endpoints
+- **Collects Windows Event Viewer logs, including Security, System, Application, and PowerShell logs.**
+- **Detects changes to important files, folders, and system configurations on the endpoint.**
+- **Tracks process creation, suspicious executions, PowerShell commands, and system-level actions.**
+- **Monitors login attempts, failed authentications, privilege escalations, and account changes.**
+- **Identifies known vulnerabilities on the Windows system using Wazuh’s Vulnerability Detector module.**
 <img width="1920" height="966" alt="1" src="https://github.com/user-attachments/assets/94da25dd-738c-4a0f-a739-8a3e69eb4029" />
+
 
 
 
